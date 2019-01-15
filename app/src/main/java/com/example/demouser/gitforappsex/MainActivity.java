@@ -15,13 +15,10 @@ import android.view.MenuItem;
 
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
-    //CHANGES
-    //Changes pt 2
-    //changed again
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         //Comment
+        //sadfhsd;˚
         //Test 2
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
