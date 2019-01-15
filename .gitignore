@@ -43,6 +43,7 @@ captures/
 .idea/caches
 .idea/vcs.xml
 .idea/modules.xml
+.idea/misc.xml
 
 
 # Keystore files
